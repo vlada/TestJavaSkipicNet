@@ -9,5 +9,8 @@ public class Main {
 
         IKiwi kiwi = new Kiwi();
         kiwi.Print();
+       //test
+        TestForGit testForGit = new TestForGit();
+                testForGit.Test();
     }
 }
